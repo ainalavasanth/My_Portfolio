@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ce
 
 ## 🌐 Live Website
 
-➡ [View My Portfolio]((https://ainalavasanth-portfolio.vercel.app/))
+➡ [View My Portfolio]([https://ainalavasanth-portfolio.vercel.app/])
 
 ---
 
