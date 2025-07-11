@@ -61,6 +61,7 @@ This website is built using modern frontend technologies and is fully responsive
 ## 📁 Folder Structure
 
 My_Portfolio/
+├
 ├── index.html
 ├── style.css
 ├── script.js
